@@ -47,7 +47,7 @@ The example of `simpleTrial` is available in `example.py`. The example of `rando
 
 ## The UCR/UEA time series datasets
 
-We use the multivariate and univariate time series datasets in the UCR/UEA repository. These datasets can be found at (http://www.timeseriesclassification.com)[here]. Z-Time uses a 3D numpy array form of those datasets with the shape (size, dimension, length). For your reference, we have a converted BasicMotions dataset in our repository. 
+We use the multivariate and univariate time series datasets in the UCR/UEA repository. These datasets can be found at [here](http://www.timeseriesclassification.com). Z-Time uses a 3D numpy array form of those datasets with the shape (size, dimension, length). For your reference, we have a converted BasicMotions dataset in our repository. 
 
 ## Synthetic datasets
 
@@ -74,4 +74,4 @@ All the numeric results are available in our repository. In the `result` folder,
 
 Any blank cell means an algorithm cannot complete on a specific dataset within the runtime or memory cutoff.
 
-For non-interpretable classifiers, we have brought the result from the most recent benchmark in [HIVE-COTE 2.0](https://link.springer.com/article/10.1007/s10994-021-06057-9) paper.
+For non-interpretable classifiers, we have brought the result from the most recent benchmark in the [HIVE-COTE 2.0](https://link.springer.com/article/10.1007/s10994-021-06057-9) paper.
