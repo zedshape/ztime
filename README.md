@@ -74,4 +74,4 @@ All the numeric results are available in our repository. In the `result` folder,
 
 Any blank cell means an algorithm cannot complete on a specific dataset within the runtime or memory cutoff.
 
-For non-interpretable classifiers, we have brought the result from the most recent benchmark in (https://link.springer.com/article/10.1007/s10994-021-06057-9)[HIVE-COTE 2.0] paper.
+For non-interpretable classifiers, we have brought the result from the most recent benchmark in [HIVE-COTE 2.0](https://link.springer.com/article/10.1007/s10994-021-06057-9) paper.
