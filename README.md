@@ -59,7 +59,7 @@ You may put one of the following options when you call `simpleTrial` or `randomi
 
 ## The UCR/UEA time series datasets
 
-We use the multivariate and univariate time series datasets in the UCR/UEA repository. These datasets can be found at (http://www.timeseriesclassification.com)[here]. Z-Time uses a 3D numpy array form of those datasets with the shape (size, dimension, length). For your reference, we have a converted BasicMotions dataset in our repository. 
+We use the multivariate and univariate time series datasets in the UCR/UEA repository. These datasets can be found at [here](http://www.timeseriesclassification.com). Z-Time uses a 3D numpy array form of those datasets with the shape (size, dimension, length). For your reference, we have a converted BasicMotions dataset in our repository. 
 
 ## Synthetic datasets
 
